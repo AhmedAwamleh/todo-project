@@ -1,0 +1,52 @@
+h1{
+    color:white;
+  
+}
+
+body  {
+    background-image: url("imge/aprove.png");
+
+  }
+
+  a {
+    color: white;
+
+    align-content: center;
+    
+  }
+ 
+  footer {
+    bottom: 0;
+    position: absolute;
+    width: 50%;
+    ;
+}
+p{
+    color:white;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    background-color: black;
+  margin-top: 12%;
+
+    
+  }
+  
+  td, th {
+    border: 5px solid white;
+    text-align: left;
+    padding: 8px;
+    color: white;
+  }
+  
+ h2{
+    color: white;
+    text-align: center;
+    margin-top: 120px;
+    
+ }
+ label{
+    color: white;
+ }
